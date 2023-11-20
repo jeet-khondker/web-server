@@ -20,3 +20,5 @@ class BPServer(BaseHTTPRequestHandler) :
         self.end_headers()
 
         self.wfile.write(bytes(file_to_open, "utf-8"))
+
+http_daemon = HTTPServer(("localhost", 8080), BPServer)
