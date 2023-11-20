@@ -16,3 +16,5 @@ class BPServer(BaseHTTPRequestHandler) :
         except : 
             file_to_open = "Requested File Not Found"
             self.send_response(404) # HTTP 404 Not Found Response : Failure Response
+
+        self.end_headers()
