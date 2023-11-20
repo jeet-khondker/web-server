@@ -18,3 +18,5 @@ class BPServer(BaseHTTPRequestHandler) :
             self.send_response(404) # HTTP 404 Not Found Response : Failure Response
 
         self.end_headers()
+
+        self.wfile.write(bytes(file_to_open, "utf-8"))
