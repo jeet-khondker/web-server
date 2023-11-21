@@ -12,3 +12,16 @@ table {
     width : 100%;
     margin-bottom : 20px;
 }
+
+table, th, td {
+    border : 1px solid #30363E;
+}
+
+th, td {
+    padding : 15px;
+    text-align : left;
+}
+
+th {
+    background-color : #161B22;
+}
