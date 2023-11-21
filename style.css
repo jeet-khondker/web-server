@@ -13,6 +13,7 @@ table {
     margin-bottom : 20px;
 }
 
+/* CSS Design for <table>, <th> and <td> HTML Tag Elements */
 table, th, td {
     border : 1px solid #30363E;
 }
