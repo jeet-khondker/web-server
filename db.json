@@ -1,0 +1,42 @@
+{
+    
+    "users" : [
+        {
+            "user_id" : "user01",
+            "user_name" : "Jeet Z. H. Khondker",
+            "user_email" : "jeetzhkhondker@gmail.com"
+        },
+        {
+            "user_id" : "user02",
+            "user_name" : "Israt Jahan Swarna",
+            "user_email" : "isratjahanswarna@gmail.com"
+        },
+        {
+            "user_id" : "user03",
+            "user_name" : "Surah Amal Malak Khondker",
+            "user_email" : "surahamalmalakkhondker@gmail.com"
+        }
+    ],
+    
+    "youtube_channels" : [
+        {
+            "channel_id" : "channel01",
+            "channel_name" : "Jeet Z. H. Khondker",
+            "channel_creator" : "Jeet Z. H. Khondker",
+            "channel_ranking" : 1
+        },
+        {
+            "channel_id" : "channel02",
+            "channel_name" : "Israt Swarna Japan",
+            "channel_creator" : "Israt Jahan Swarna",
+            "channel_ranking" : 2
+        },
+        {
+            "channel_id" : "channel02",
+            "channel_name" : "Clever Programmer",
+            "channel_creator" : "Rafeh Qazi",
+            "channel_ranking" : 3
+        }
+    ]
+
+}
