@@ -5,3 +5,10 @@ body {
     font-family : system-ui;
     margin : 50px;
 }
+
+/* CSS Design for <table> HTML Tag Element */
+table {
+    border-collapse : collapse;
+    width : 100%;
+    margin-bottom : 20px;
+}
