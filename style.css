@@ -25,3 +25,8 @@ th, td {
 th {
     background-color : #161B22;
 }
+
+/* CSS Hover Effect to Rrows */
+tr:hover {
+    background-color : #21262C;
+}
